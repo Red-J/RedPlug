@@ -3,7 +3,9 @@ Ps vita plugins installer
 
  Compatibility list (WIP)
  
+ 
  Plugins must be named like this:
+ 
 
 *Kernel
 
