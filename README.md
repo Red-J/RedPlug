@@ -37,7 +37,7 @@ Ps vita plugins installer
  usbmc by yifanlu v6 (only for PSTV),  usbmc.skprx
  VideoDebug by SilicaAndPina v1.0,  videoDebug.skprx
  viimote by xerpi v1.2,  viimote.skprx
- Vitabright by devnoname120 v1.0,  vitabright.skprx
+ Vitabright by devnoname120 v1.0,  vitabright.skprx 
  Vitacheat Z05 BETA FOR 3.60,  vitacheat360.skprx
  Vitacheat Z05 BETA by r0ah FOR 3.65+,  vitacheat.skprx
  vitastick by xerpi v0.4.1 alpha,  vitastick.skprx
