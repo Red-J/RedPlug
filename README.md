@@ -1,5 +1,7 @@
 # RedPlug
-Ps vita plugins installer
+Ps vita plugins installer made with vita2d lib 
+
+Just choose where your plugins are and install them ;)
 
  Compatibility list (WIP)
  
